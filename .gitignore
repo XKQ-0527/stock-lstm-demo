@@ -1,0 +1,10 @@
+# 编辑器设置
+.vscode/
+# 入门练习（不公开）
+day1_python_basics.*
+# 与 ipynb 内容重复
+day2_pandas_stock.py
+# Python / Jupyter 缓存
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
